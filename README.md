@@ -12,7 +12,7 @@
 
 ## Idea
 Flanear is a Move-to-Earn and Play-to-Earn game built on top of NEAR Protocol.
-Our idea was adding more game mechanics into M2E. So steps won’t be just converted into steps, but be used in interactive games against other players.
+Our idea was to add more game mechanics into M2E. So steps won’t be just converted into steps, but be used in interactive games against other players.
 So merging real life actions and competition in games we will create metaverse.
 
 ## Flanears
@@ -29,7 +29,7 @@ We always want to bring a little of our identity to projects, so our first token
 *This token is awarded for the steps you make.*
 
 ### Fla-NEAR(FLAN) token
-The second token is named after the project, Fla-NEAR. And here we pay tribute to the NEAR blockchain, for all of us this is not the first project in its ecosystem.
+The second token is named after the project, Fla-NEAR. And here we pay tribute to the NEAR blockchain, for all of us, this is not the first project in its ecosystem.
 *This token is awarded for wins in P2P battles.*<br>
 
 ### Team
