@@ -1,5 +1,6 @@
 # FLANEAR
 ## Move-to-Earn and Play-to-Earn game built on top of NEAR Protocol.
+![Flanear](https://user-images.githubusercontent.com/63261287/173238854-e5f389bb-67f7-444b-88e9-2aba91a65370.png)
 
 ### Table of contents
 * [Idea](#idea)
@@ -15,6 +16,7 @@ Our idea was adding more game mechanics into M2E. So steps won’t be just conve
 So merging real life actions and competition in games we will create metaverse.
 
 ## Flanears
+![flanears](https://user-images.githubusercontent.com/63261287/173238834-f0d9fcfa-b47b-4c35-87c9-840c0b0b503c.png)
 Flaners are people who walk along the boulevards for the purpose of entertainment and enjoyment.
 Flanears are the characters of the game on the NEAR blockchain.
 You need a Flanear NFT to battle other people and get FLAN token.
@@ -23,12 +25,12 @@ You need a Flanear NFT to battle other people and get FLAN token.
 Flanear has a classic for M2E projects double token design
 
 ### Krok(KRK) token
-![image](https://user-images.githubusercontent.com/63261287/173237559-4d36911d-efe9-456f-947a-09362ede92f7.png)
+![image](https://user-images.githubusercontent.com/63261287/173237559-4d36911d-efe9-456f-947a-09362ede92f7.png)<br>
 We always want to bring a little of our identity to projects, so our first token is called KROK, which means step in Ukrainian.
 *This token is awarded for the steps you make.*
 
 ### Fla-NEAR(FLAN) token
-![image](https://user-images.githubusercontent.com/63261287/173237634-c1b04962-0f23-4f84-ae20-6535173b3ae0.png)
+![image](https://user-images.githubusercontent.com/63261287/173237634-c1b04962-0f23-4f84-ae20-6535173b3ae0.png)<br>
 The second token is named after the project, Fla-NEAR. And here we pay tribute to the NEAR blockchain, for all of us this is not the first project in its ecosystem.
 *This token is awarded for wins in P2P battles.*
 
