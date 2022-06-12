@@ -25,31 +25,29 @@ You need a Flanear NFT to battle other people and get FLAN token.
 Flanear has a classic for M2E projects double token design
 
 ### Krok(KRK) token
-![image](https://user-images.githubusercontent.com/63261287/173237559-4d36911d-efe9-456f-947a-09362ede92f7.png)<br>
-We always want to bring a little of our identity to projects, so our first token is called KROK, which means step in Ukrainian.
+We always want to bring a little of our identity to projects, so our first token is called KROK, which means step in Ukrainian.<br>
 *This token is awarded for the steps you make.*
 
 ### Fla-NEAR(FLAN) token
-![image](https://user-images.githubusercontent.com/63261287/173237634-c1b04962-0f23-4f84-ae20-6535173b3ae0.png)<br>
 The second token is named after the project, Fla-NEAR. And here we pay tribute to the NEAR blockchain, for all of us this is not the first project in its ecosystem.
-*This token is awarded for wins in P2P battles.*
+*This token is awarded for wins in P2P battles.*<br>
 
 ### Team
-Kostiantyn Ostapenko — project management
-Illa Malovanyi — backend
-Yurii Stolbetskyi — rust smart-contracts
-Sergey Kalugin — react native frontend
-Vladimir Sheremeta — react native frontend
+Kostiantyn Ostapenko — project management<br>
+Illa Malovanyi — backend<br>
+Yurii Stolbetskyi — rust smart-contracts<br>
+Sergey Kalugin — react native frontend<br>
+Vladimir Sheremeta — react native frontend<br>
 
 ### Future plans
 We see a huge perspective in this project. We are thinking about adding more games, building a metaverse.
 
 ### Our other projects
 Charity collections to help Ukraine:
-Animal Stories ([paras.id](https://paras.id/ru/collection/animal-stories-by-kastet99near))
-Mavka ([paras.id](https://paras.id/ru/collection/mavka-by-kastet99near))
-Kvitok ([paras.id](https://paras.id/ru/collection/kvitok-by-kastet99near))
-Ukraine Bird View ([paras.id](https://paras.id/ru/collection/ukraine-bird-view-by-kastet99near))
+Animal Stories ([paras.id](https://paras.id/ru/collection/animal-stories-by-kastet99near))<br>
+Mavka ([paras.id](https://paras.id/ru/collection/mavka-by-kastet99near))<br>
+Kvitok ([paras.id](https://paras.id/ru/collection/kvitok-by-kastet99near))<br>
+Ukraine Bird View ([paras.id](https://paras.id/ru/collection/ukraine-bird-view-by-kastet99near))<br>
 
 NFT Hockey game Github:
 https://github.com/NFT-Hockey
